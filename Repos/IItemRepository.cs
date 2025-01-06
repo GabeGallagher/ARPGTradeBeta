@@ -5,6 +5,6 @@ namespace ARPGTradeBeta.Repos
     public interface IItemRepository : IRepository<Item>
     {
         Task<IEnumerable<Item>> GetItemsByPlayerIdAsync(Guid playerId);
-        Task<IEnumerable<Item>> GetItemsByCharacterIdAsync(Guid characterId);
+        Task<IEnumerable<Item>> GetItemsWithQueryAsync(ItemQueryParams itemQueryParams);
     }
 }

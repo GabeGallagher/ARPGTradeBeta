@@ -148,3 +148,5 @@ C:\Users\Gabe\source\repos\ARPGTradeBeta\ARPGTradeBeta\obj\Debug\net8.0\refint\A
 C:\Users\Gabe\source\repos\ARPGTradeBeta\ARPGTradeBeta\obj\Debug\net8.0\ARPGTradeBeta.pdb
 C:\Users\Gabe\source\repos\ARPGTradeBeta\ARPGTradeBeta\obj\Debug\net8.0\ARPGTradeBeta.genruntimeconfig.cache
 C:\Users\Gabe\source\repos\ARPGTradeBeta\ARPGTradeBeta\obj\Debug\net8.0\ref\ARPGTradeBeta.dll
+C:\Users\Gabe\source\repos\ARPGTradeBeta\ARPGTradeBeta\obj\Debug\net8.0\ARPGTradeBeta.sourcelink.json
+C:\Users\Gabe\source\repos\ARPGTradeBeta\ARPGTradeBeta\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
